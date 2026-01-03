@@ -1,0 +1,30 @@
+import json
+
+# 1. Load the JSON file
+# Replace 'dataset.json' with the actual name of your file
+with open('dataset.json', 'r', encoding='utf-8') as f:
+    data = json.load(f)
+
+# 2. Navigate to the list of athletes
+# Based on your file structure: root -> data -> rankingList
+athletes_list = data['data']['rankingList']
+
+# 3. Create a dictionary to hold the result
+result = {}
+
+# 4. Loop through every athlete in the list
+for athlete in athletes_list:
+    # Get the ID and Points using their specific keys
+    license_id = athlete.get('wtfLicenseId')
+    points = athlete.get('points')
+    
+    # Add them to our result dictionary
+    if license_id:
+        result[license_id] = points
+
+# 5. Print the result in the format you wanted
+print(json.dumps(result, indent=2))
+
+# Optional: Save it to a new file called 'output.json'
+with open('51_Male.json', 'w') as out_file:
+    json.dump(result, out_file, indent=2)
