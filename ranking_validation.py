@@ -8,7 +8,7 @@ df = pd.read_excel("C:\\Users\\nerme\\Downloads\\Jan Ranking Validation.xlsx")
 jan_26_col = pd.Timestamp('2026-01-26 00:00:00')
 
 # Filter for  weight category
-male_df = df[df['Weight Category'] == 'male37'].copy()
+male_df = df[df['Weight Category'] == 'female29'].copy()
 
 # Get ID and January 26 points
 excel_data = {}
