@@ -318,8 +318,6 @@ only_in_file2.sort(key=lambda x: x['Points'], reverse=True)
 
 total_issues = len(point_discrepancies) + len(weight_mismatches) + len(only_in_file1) + len(only_in_file2)
 
-total_issues = len(point_discrepancies) + len(weight_mismatches) + len(only_in_file1) + len(only_in_file2)
-
 # Generate formatted output
 output_lines = format_results(point_discrepancies, weight_mismatches, only_in_file1, only_in_file2, 
                                file1_data, file2_data)
