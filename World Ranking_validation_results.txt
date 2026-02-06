@@ -1,0 +1,162 @@
+================================================================================
+RANKING COMPARISON - World Ranking Division
+================================================================================
+
+⚠️  TOTAL ISSUES FOUND: 146
+
+
+================================================================================
+⚠️  ONLY IN FILE 1 (73):
+================================================================================
+
+1. ID: AIN-1001 | Maksim Osin | male63 | 35.62 pts | Wallis and Futuna Islands
+2. ID: AIN-1001 | Maksim Osin | male68 | 2.57 pts | Wallis and Futuna Islands
+3. ID: AIN-1002 | MAGOMEDRASUL OMAROV | male80 | 2.12 pts | Athlètes Individuels Neutres
+4. ID: AIN-1004 | Alexander PRYAZHNIKOV | male87 | 17.56 pts | Wallis and Futuna Islands
+5. ID: AIN-1005 | Margarita Alieva | female53 | 3.18 pts | Wallis and Futuna Islands
+6. ID: AIN-1006 | Milana Bekulova | female46 | 144.40 pts | Wallis and Futuna Islands
+7. ID: AIN-1006 | Milana Bekulova | female49 | 55.38 pts | Western Sahara
+8. ID: AIN-1007 | DZHAVRIIAT ALIEVA | female62 | 1.51 pts | Wallis and Futuna Islands
+9. ID: AIN-1008 | Viktoriia Zheleznova | female67 | 37.73 pts | Western Sahara
+10. ID: AIN-1009 | Elizaveta STEPANOVA | female73 | 17.74 pts | Wallis and Futuna Islands
+11. ID: AIN-1009 | Elizaveta STEPANOVA | femaleAbove73 | 14.16 pts | Wallis and Futuna Islands
+12. ID: AIN-101 | ALISA ANGELOVA | female46 | 82.40 pts | Wallis and Futuna Islands
+13. ID: AIN-101 | ALISA ANGELOVA | female49 | 15.63 pts | Wallis and Futuna Islands
+14. ID: AIN-1014 | Vladislav LARIN | maleAbove87 | 76.52 pts | Wallis and Futuna Islands
+15. ID: AIN-1015 | Rafail Aiukaev | maleAbove87 | 159.00 pts | Western Sahara
+16. ID: AIN-104 | Margarita Blizniakova | female57 | 79.46 pts | Western Sahara
+17. ID: AIN-105 | Liliia Khuzina | female62 | 114.24 pts | Western Sahara
+18. ID: AIN-105 | Liliia Khuzina | female67 | 32.16 pts | Western Sahara
+19. ID: AIN-108 | Kristina Adebaio | femaleAbove73 | 26.78 pts | Wallis and Futuna Islands
+20. ID: AIN-109 | Idar Bagov | male58 | 42.82 pts | Wallis and Futuna Islands
+21. ID: AIN-109 | Idar Bagov | male63 | 39.00 pts | Western Sahara
+22. ID: AIN-109 | Idar Bagov | male68 | 1.06 pts | Wallis and Futuna Islands
+23. ID: AIN-1090 | Khanmagomed Ramazanov | male68 | 2.12 pts | Wallis and Futuna Islands
+24. ID: AIN-1090 | Khanmagomed Ramazanov | male74 | 4.23 pts | Wallis and Futuna Islands
+25. ID: AIN-1091 | Vladislav Budin | male80 | 18.86 pts | Wallis and Futuna Islands
+26. ID: AIN-1091 | Vladislav Budin | male87 | 20.40 pts | Wallis and Futuna Islands
+27. ID: AIN-1092 | Ivan POS | male80 | 1.08 pts | Wallis and Futuna Islands
+28. ID: AIN-1093 | Stepan SLEPOV | male80 | 56.59 pts | Wallis and Futuna Islands
+29. ID: AIN-1094 | Anna Pekonkina | female73 | 3.60 pts | Wallis and Futuna Islands
+30. ID: AIN-1095 | LINARA MUSLIMOVA | femaleAbove73 | 23.84 pts | Wallis and Futuna Islands
+31. ID: AIN-1096 | Irina Rogozina | female49 | 33.68 pts | Western Sahara
+32. ID: AIN-1099 | Anastasia SUBBOTINA | female53 | 51.37 pts | Western Sahara
+33. ID: AIN-1099 | Anastasia Subbotina | female57 | 1.51 pts | Wallis and Futuna Islands
+34. ID: AIN-1100 | VIKTORYA KUCHINA | female57 | 10.55 pts | Athlètes Individuels Neutres
+35. ID: AIN-1101 | Valeriia Skaprovska | female67 | 41.23 pts | Wallis and Futuna Islands
+36. ID: AIN-1107 | Yuliya VITKO | female57 | 96.98 pts | Wallis and Futuna Islands
+37. ID: AIN-111 | Mikhail Artamonov | male63 | 1.08 pts | Western Sahara
+38. ID: AIN-111 | Mikhail ARTAMONOV | male68 | 3.63 pts | Wallis and Futuna Islands
+39. ID: AIN-112 | Ilia Danilov | male68 | 36.08 pts | Wallis and Futuna Islands
+40. ID: AIN-113 | Kadyrbech Daurov | male74 | 6.60 pts | Western Sahara
+41. ID: AIN-1135 | Milina Mesko | female53 | 4.23 pts | Athlètes Individuels Neutres
+42. ID: AIN-1139 | PALINA MIKHALCHUK | femaleAbove73 | 21.60 pts | Wallis and Futuna Islands
+43. ID: AIN-114 | Rafael Kamalov | male87 | 39.31 pts | Wallis and Futuna Islands
+44. ID: AIN-1143 | Viktar Charniak | male58 | 8.32 pts | Western Sahara
+45. ID: AIN-1145 | IVAN FINDZIUKEVICH | male68 | 6.05 pts | Athlètes Individuels Neutres
+46. ID: AIN-1152 | Azat Besaev | male58 | 18.94 pts | Wallis and Futuna Islands
+47. ID: AIN-1153 | Kantemir Bitsuev | male58 | 6.48 pts | Wallis and Futuna Islands
+48. ID: AIN-1153 | Kantemir Bitsuev | male63 | 2.12 pts | Wallis and Futuna Islands
+49. ID: AIN-1155 | Amir VYKOV | male68 | 86.55 pts | Wallis and Futuna Islands
+50. ID: AIN-1155 | Amir Vykov | male74 | 10.00 pts | Wallis and Futuna Islands
+51. ID: AIN-1161 | Aiuna MENKENOVA | female49 | 7.20 pts | Wallis and Futuna Islands
+52. ID: AIN-1163 | Alina Tepina | female57 | 8.60 pts | Wallis and Futuna Islands
+53. ID: AIN-1169 | Sarmat TCAKOEV | male68 | 40.12 pts | Wallis and Futuna Islands
+54. ID: AIN-1171 | Khubaev Batradz | male63 | 4.23 pts | Athlètes Individuels Neutres
+55. ID: AIN-1210 | Viktoriya Eremina | female49 | 36.42 pts | Wallis and Futuna Islands
+56. ID: AIN-1278 | Raman TURAVINAU | male80 | 75.65 pts | Wallis and Futuna Islands
+57. ID: AIN-128 | Uladzislava Sarokina | female53 | 6.70 pts | Wallis and Futuna Islands
+58. ID: AIN-1281 | Aliaksandr Kazlou | male54 | 17.05 pts | Western Sahara
+59. ID: AIN-1283 | Dzmitry MESHALKIN | maleAbove87 | 1.80 pts | Wallis and Futuna Islands
+60. ID: AIN-1284 | Matsvei MIATLITSKI | male68 | 3.94 pts | Wallis and Futuna Islands
+61. ID: AIN-129 | Valeryia SMYCHKOVA | female62 | 23.87 pts | Wallis and Futuna Islands
+62. ID: AIN-1292 | Darya NAVITSKAIA | female67 | 8.64 pts | Athlètes Individuels Neutres
+63. ID: AIN-1295 | Daniil Yurkou | male87 | 28.64 pts | Wallis and Futuna Islands
+64. ID: AIN-1296 | Maryia Strunets | female49 | 3.60 pts | Athlètes Individuels Neutres
+65. ID: AIN-1297 | Aliaksei Tarchyla | maleAbove87 | 14.04 pts | Wallis and Futuna Islands
+66. ID: AIN-131 | Yahor KAZLOU | male54 | 32.10 pts | Wallis and Futuna Islands
+67. ID: AIN-131 | Yahor Kazlou | male58 | 2.92 pts | Western Sahara
+68. ID: AIN-132 | Georgii Gurtsiev | male58 | 140.67 pts | Western Sahara
+69. ID: AIN-132 | Georgii Gurtsiev | male63 | 1.80 pts | Western Sahara
+70. ID: AIN-133 | Maksim Bandarevich | male63 | 30.60 pts | Western Sahara
+71. ID: AIN-133 | Maksim BANDAREVICH | male68 | 0.76 pts | Wallis and Futuna Islands
+72. ID: AIN-136 | Artsiom Plonis | maleAbove87 | 63.78 pts | Wallis and Futuna Islands
+73. ID: ROU-2057 | Dogari Nicolae | male74 | 1.08 pts | Romania
+
+================================================================================
+⚠️  ONLY IN FILE 2 (73):
+================================================================================
+
+1. ID: BLR-2379 | Uladzislava SAROKINA | female53 | 6.70 pts | Belarus
+2. ID: BLR-2380 | Valeryia SMYCHKOVA | female62 | 23.87 pts | Belarus
+3. ID: BLR-2382 | Yahor KAZLOU | male54 | 32.10 pts | Belarus
+4. ID: BLR-2382 | Yahor KAZLOU | male58 | 2.92 pts | Belarus
+5. ID: BLR-2383 | Georgii GURTSIEV | male58 | 140.67 pts | Belarus
+6. ID: BLR-2383 | Georgii GURTSIEV | male63 | 1.80 pts | Belarus
+7. ID: BLR-2384 | Maksim BANDAREVICH | male63 | 30.60 pts | Belarus
+8. ID: BLR-2384 | Maksim BANDAREVICH | male68 | 0.76 pts | Belarus
+9. ID: BLR-2387 | Artsiom PLONIS | maleAbove87 | 63.78 pts | Belarus
+10. ID: BLR-2420 | Yuliya VITKO | female57 | 96.98 pts | Belarus
+11. ID: BLR-2421 | Milina MESKO | female53 | 4.23 pts | Belarus
+12. ID: BLR-2425 | PALINA MIKHALCHUK | femaleAbove73 | 21.60 pts | Belarus
+13. ID: BLR-2429 | Viktar CHARNIAK | male58 | 8.32 pts | Belarus
+14. ID: BLR-2431 | IVAN FINDZIUKEVICH | male68 | 6.05 pts | Belarus
+15. ID: BLR-2436 | Sarmat TCAKOEV | male68 | 40.12 pts | Belarus
+16. ID: BLR-2451 | Raman TURAVINAU | male80 | 75.65 pts | Belarus
+17. ID: BLR-2454 | Aliaksandr KAZLOU | male54 | 17.05 pts | Belarus
+18. ID: BLR-2456 | Dzmitry MESHALKIN | maleAbove87 | 1.80 pts | Belarus
+19. ID: BLR-2457 | Matsvei MIATLITSKI | male68 | 3.94 pts | Belarus
+20. ID: BLR-2460 | Darya NAVITSKAIA | female67 | 8.64 pts | Belarus
+21. ID: BLR-2461 | Daniil YURKOU | male87 | 28.64 pts | Belarus
+22. ID: BLR-2462 | Maryia STRUNETS | female49 | 3.60 pts | Belarus
+23. ID: BLR-2463 | Aliaksei TARCHYLA | maleAbove87 | 14.04 pts | Belarus
+24. ID: MDA-2590 | Dogari NICOLAE | male74 | 1.08 pts | Republic Of Moldova
+25. ID: RUS-7336 | ALISA ANGELOVA | female46 | 82.40 pts | Russian Federation
+26. ID: RUS-7336 | ALISA ANGELOVA | female49 | 15.63 pts | Russian Federation
+27. ID: RUS-7339 | Margarita BLIZNIAKOVA | female57 | 79.46 pts | Russian Federation
+28. ID: RUS-7340 | Liliia KHUZINA | female62 | 114.24 pts | Russian Federation
+29. ID: RUS-7340 | Liliia KHUZINA | female67 | 32.16 pts | Russian Federation
+30. ID: RUS-7343 | Kristina ADEBAIO | femaleAbove73 | 26.78 pts | Russian Federation
+31. ID: RUS-7344 | Idar BAGOV | male58 | 42.82 pts | Russian Federation
+32. ID: RUS-7344 | Idar BAGOV | male63 | 39.00 pts | Russian Federation
+33. ID: RUS-7344 | Idar BAGOV | male68 | 1.06 pts | Russian Federation
+34. ID: RUS-7346 | Mikhail ARTAMONOV | male63 | 1.08 pts | Russian Federation
+35. ID: RUS-7346 | Mikhail ARTAMONOV | male68 | 3.63 pts | Russian Federation
+36. ID: RUS-7347 | Ilia DANILOV | male68 | 36.08 pts | Russian Federation
+37. ID: RUS-7348 | Kadyrbech DAUROV | male74 | 6.60 pts | Russian Federation
+38. ID: RUS-7349 | Rafael KAMALOV | male87 | 39.31 pts | Russian Federation
+39. ID: RUS-7362 | Maksim OSIN | male63 | 35.62 pts | Russian Federation
+40. ID: RUS-7362 | Maksim OSIN | male68 | 2.57 pts | Russian Federation
+41. ID: RUS-7363 | MAGOMEDRASUL OMAROV | male80 | 2.12 pts | Russian Federation
+42. ID: RUS-7365 | Alexander PRYAZHNIKOV | male87 | 17.56 pts | Russian Federation
+43. ID: RUS-7366 | Margarita ALIEVA | female53 | 3.18 pts | Russian Federation
+44. ID: RUS-7367 | Milana BEKULOVA | female46 | 144.40 pts | Russian Federation
+45. ID: RUS-7367 | Milana BEKULOVA | female49 | 55.38 pts | Russian Federation
+46. ID: RUS-7368 | DZHAVRIIAT ALIEVA | female62 | 1.51 pts | Russian Federation
+47. ID: RUS-7369 | VIKTORIIA ZHELEZNOVA | female67 | 37.73 pts | Russian Federation
+48. ID: RUS-7370 | Elizaveta STEPANOVA | female73 | 17.74 pts | Russian Federation
+49. ID: RUS-7370 | Elizaveta STEPANOVA | femaleAbove73 | 14.16 pts | Russian Federation
+50. ID: RUS-7375 | Vladislav LARIN | maleAbove87 | 76.52 pts | Russian Federation
+51. ID: RUS-7376 | Rafail AIUKAEV | maleAbove87 | 159.00 pts | Russian Federation
+52. ID: RUS-7426 | Khanmagomed RAMAZANOV | male68 | 2.12 pts | Russian Federation
+53. ID: RUS-7426 | Khanmagomed RAMAZANOV | male74 | 4.23 pts | Russian Federation
+54. ID: RUS-7427 | Vladislav BUDIN | male80 | 18.86 pts | Russian Federation
+55. ID: RUS-7427 | Vladislav BUDIN | male87 | 20.40 pts | Russian Federation
+56. ID: RUS-7428 | Ivan POS | male80 | 1.08 pts | Russian Federation
+57. ID: RUS-7429 | Stepan SLEPOV | male80 | 56.59 pts | Russian Federation
+58. ID: RUS-7430 | Anna PEKONKINA | female73 | 3.60 pts | Russian Federation
+59. ID: RUS-7431 | LINARA MUSLIMOVA | femaleAbove73 | 23.84 pts | Russian Federation
+60. ID: RUS-7432 | Irina ROGOZINA | female49 | 33.68 pts | Russian Federation
+61. ID: RUS-7435 | Anastasia SUBBOTINA | female53 | 51.37 pts | Russian Federation
+62. ID: RUS-7435 | Anastasia SUBBOTINA | female57 | 1.51 pts | Russian Federation
+63. ID: RUS-7436 | VIKTORYA KUCHINA | female57 | 10.55 pts | Russian Federation
+64. ID: RUS-7437 | Valeriia SKAPROVSKA | female67 | 41.23 pts | Russian Federation
+65. ID: RUS-7472 | Azat BESAEV | male58 | 18.94 pts | Russian Federation
+66. ID: RUS-7473 | Kantemir BITSUEV | male58 | 6.48 pts | Russian Federation
+67. ID: RUS-7473 | Kantemir BITSUEV | male63 | 2.12 pts | Russian Federation
+68. ID: RUS-7475 | Amir VYKOV | male68 | 86.55 pts | Russian Federation
+69. ID: RUS-7475 | Amir VYKOV | male74 | 10.00 pts | Russian Federation
+70. ID: RUS-7481 | Aiuna MENKENOVA | female49 | 7.20 pts | Russian Federation
+71. ID: RUS-7483 | Alina TEPINA | female57 | 8.60 pts | Russian Federation
+72. ID: RUS-7490 | Khubaev BATRADZ | male63 | 4.23 pts | Russian Federation
+73. ID: RUS-7515 | Viktoriya EREMINA | female49 | 36.42 pts | Russian Federation

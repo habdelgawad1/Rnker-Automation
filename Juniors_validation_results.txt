@@ -1,0 +1,279 @@
+================================================================================
+RANKING COMPARISON - Juniors Division
+================================================================================
+
+⚠️  TOTAL ISSUES FOUND: 247
+
+
+================================================================================
+❌ POINT DISCREPANCIES (2):
+================================================================================
+
+1. ATHLETE DETAILS:
+   ID:              BIH-1863
+   Name:            Emin DEMIC
+   Weight Category: male68
+   Country:         Bosnia and Herzegovina
+   File1 Points:    150.49
+   File2 Points:    150.52
+   Difference:      0.03
+
+2. ATHLETE DETAILS:
+   ID:              ITA-4488
+   Name:            Luca Fabian Serban
+   Weight Category: male68
+   Country:         Italy
+   File1 Points:    180.14
+   File2 Points:    180.17
+   Difference:      0.03
+
+
+================================================================================
+⚠️  ONLY IN FILE 1 (245):
+================================================================================
+
+1. ID: AIN-1312 | Artur Sozaev | male55 | 3.02 pts | Wallis and Futuna Islands
+2. ID: AIN-1481 | Nikita Gavrish | male63 | 2.12 pts | Wallis and Futuna Islands
+3. ID: AIN-1490 | ILIA SHILOV | male55 | 2.12 pts | Wallis and Futuna Islands
+4. ID: AUS-104758 | Valentina DE ROBERTIS | female52 | 1.08 pts | Australia
+5. ID: AUT-2268 | Raphael Hribar | male68 | 1.51 pts | Austria
+6. ID: AZE-2401 | Leyla Ahadova | female52 | 2.12 pts | Azerbaijan
+7. ID: AZE-3843 | Eyvaz Mammadli | male55 | 2.27 pts | Azerbaijan
+8. ID: BEL-2399 | Sabrin HRAIBA | female52 | 1.51 pts | Belgium
+9. ID: BEL-2404 | Tyrone Kenens | male55 | 3.02 pts | Belgium
+10. ID: BEL-2407 | Mert MERMER | male55 | 2.27 pts | Belgium
+11. ID: BEL-2444 | Enzo Alonge | male55 | 1.13 pts | Belgium
+12. ID: BEL-2514 | Yassine Othman | male63 | 2.16 pts | Belgium
+13. ID: BIH-1789 | Tin Juresic | male63 | 1.13 pts | Bosnia and Herzegovina
+14. ID: BIH-1819 | Amila Sahbegovic | female52 | 1.13 pts | Bosnia and Herzegovina
+15. ID: BIH-1954 | Ivona Juric | female52 | 1.51 pts | Bosnia and Herzegovina
+16. ID: BIH-1998 | Tayra Omerhodzic | female59 | 1.13 pts | Bosnia and Herzegovina
+17. ID: BUL-2009 | Daniel NIKOLOV | male59 | 1.08 pts | Bulgaria
+18. ID: BUL-2336 | Aleksey Nikolov | male55 | 3.18 pts | Bulgaria
+19. ID: BUL-2490 | Pavel Hadjiivanov | male68 | 1.13 pts | Bulgaria
+20. ID: BUL-2690 | Boris KRUSTEV | male55 | 1.80 pts | Bulgaria
+21. ID: CAN-11136 | Eloïse Morones | female55 | 1.51 pts | Canada
+22. ID: CAN-11331 | Maxime Berube | male55 | 4.28 pts | Canada
+23. ID: CIV-2612 | Baba Assad OUATTARA | male59 | 2.16 pts | Cote D'ivoire
+24. ID: CRO-6197 | Dora VUKIC | female49 | 1.08 pts | Croatia
+25. ID: CRO-6197 | Dora VUKIC | female52 | 1.08 pts | Croatia
+26. ID: CRO-6528 | Mia BEGIĆ | female49 | 1.08 pts | Croatia
+27. ID: CYP-2408 | Zeta Kaourtishi | female52 | 1.13 pts | Cyprus
+28. ID: CZE-2174 | Filip NOVOTNY | male48 | 1.80 pts | Czech Republic
+29. ID: CZE-2174 | Filip Novotny | male51 | 1.13 pts | Czech Republic
+30. ID: DEN-2877 | Omar Abu-Lifa | male59 | 2.16 pts | Denmark
+31. ID: EGY-12426 | Omar Mohamed Medhat AHMED | male63 | 1.06 pts | Egypt
+32. ID: EGY-31395 | Hamazah hazim eibdalhadi MUKHTAR | male63 | 1.06 pts | Egypt
+33. ID: ESP-4401 | NOAH ZURITA FABIAN | male51 | 0.76 pts | Spain
+34. ID: ESP-4615 | Paula CATALAN MARTIN | female52 | 0.76 pts | Spain
+35. ID: ESP-4697 | MIGUEL CUESTA ARAGONES | male59 | 0.76 pts | Spain
+36. ID: ESP-4899 | Julia ARCE | female49 | 0.76 pts | Spain
+37. ID: ESP-5005 | Alberto LLORENS RABELO | male45 | 1.08 pts | Spain
+38. ID: ESP-5005 | Alberto Llorens Rabelo | male51 | 2.16 pts | Spain
+39. ID: ESP-5184 | Marcos FERNANDEZ ROMERO | male51 | 0.76 pts | Spain
+40. ID: ESP-5184 | Marcos Fernandez Romero | male63 | 1.51 pts | Spain
+41. ID: ESP-5288 | Emma García Miranda | female52 | 1.51 pts | Spain
+42. ID: ESP-5293 | Marta ROLDAN CANTALLOPS | female49 | 1.08 pts | Spain
+43. ID: ESP-5293 | Marta Roldan Cantallops | female52 | 1.13 pts | Spain
+44. ID: ESP-5316 | Rodrigo CAAMAÑO PÉREZ | male48 | 1.08 pts | Spain
+45. ID: ESP-5316 | Rodrigo Caamaño Pérez | male59 | 0.80 pts | Spain
+46. ID: ESP-5392 | Gabriel Olveira Segorve | male45 | 1.13 pts | Spain
+47. ID: ESP-5401 | Judith Chas Barral | female55 | 1.51 pts | Spain
+48. ID: ESP-5428 | Victor Tejada Lopez | male48 | 1.13 pts | Spain
+49. ID: ESP-5428 | Victor Tejada Lopez | male51 | 1.51 pts | Spain
+50. ID: ESP-5457 | ERIK LORIENTE MORENO | male59 | 1.51 pts | Spain
+51. ID: ESP-5470 | Dawit SANTISO BAAMONDE | male51 | 0.76 pts | Spain
+52. ID: ESP-5475 | David INFIESTA PICOUTO | male55 | 0.76 pts | Spain
+53. ID: ESP-5475 | David Infiesta Picouto | male59 | 0.80 pts | Spain
+54. ID: ESP-5476 | Brais Esmoris Rilo | male59 | 0.80 pts | Spain
+55. ID: ESP-5476 | Brais Esmoris Rilo | male63 | 1.06 pts | Spain
+56. ID: ESP-5482 | Jorge Garcia Villanueva | male63 | 1.51 pts | Spain
+57. ID: ESP-5502 | Denis Constantin Nita | male63 | 1.62 pts | Spain
+58. ID: ESP-5514 | Hugo GIL CRISTOBAL | male59 | 0.53 pts | Spain
+59. ID: ESP-5643 | Izan OLIVA ALONSO | male45 | 1.51 pts | Spain
+60. ID: ESP-5690 | Laia SORIANO BAÑON | female55 | 0.76 pts | Spain
+61. ID: ESP-5759 | Violeta Garrote | female52 | 1.51 pts | Spain
+62. ID: ESP-5847 | Marcos MUÑIZ CACERES | male45 | 1.08 pts | Spain
+63. ID: ESP-5847 | Marcos Muñiz Caceres | male59 | 3.18 pts | Spain
+64. ID: ESP-5851 | MICHELE CASTELLI | male63 | 1.89 pts | Spain
+65. ID: ESP-5853 | Maria Ibars Alcantara | female52 | 1.62 pts | Spain
+66. ID: ESP-5873 | José Santamaría Pérez | male51 | 1.13 pts | Spain
+67. ID: ESP-5991 | Andrea Ramos Reyes | female46 | 1.13 pts | Spain
+68. ID: ESP-5994 | Ivan Martinez Sanchez | male59 | 0.80 pts | Spain
+69. ID: ESP-6049 | Pablo Carreira Mallo | male55 | 2.64 pts | Spain
+70. ID: ESP-6049 | Pablo Carreira Mallo | male59 | 1.51 pts | Spain
+71. ID: ESP-6074 | Rodrigo Muñoz Hellin | male55 | 2.96 pts | Spain
+72. ID: ESP-6086 | Javier Pastor Feu | male51 | 1.13 pts | Spain
+73. ID: ESP-6117 | Ana Rodriguez Caparros | female59 | 1.13 pts | Spain
+74. ID: ESP-6293 | Nahia Maite Saiz Payo | female49 | 2.12 pts | Spain
+75. ID: ESP-6405 | Noa García González | female46 | 1.51 pts | Spain
+76. ID: ESP-6553 | Pablo Jose RAYA MANZANO | male51 | 1.51 pts | Spain
+77. ID: EST-1728 | Nikas Kardava | male59 | 6.00 pts | Estonia
+78. ID: FIN-2215 | Veeti VAINIO | male59 | 1.08 pts | Finland
+79. ID: FRA-3901 | Rayan MAHBOUB | male68 | 1.13 pts | France
+80. ID: FRA-3903 | Sofiane SLIMANI | male55 | 3.02 pts | France
+81. ID: FRA-4011 | Steven LY | male59 | 2.16 pts | France
+82. ID: FRA-4148 | Samy SIFAOUI | male55 | 1.51 pts | France
+83. ID: FRA-4148 | Samy Sifaoui | male59 | 2.75 pts | France
+84. ID: FRA-4411 | kenza berkat | female52 | 1.13 pts | France
+85. ID: FRA-4530 | mohamed-ali Hamed | male51 | 2.16 pts | France
+86. ID: GBR-5050 | Francis APPIAH | male55 | 0.76 pts | Great Britain
+87. ID: GBR-5050 | Francis APPIAH | male59 | 1.80 pts | Great Britain
+88. ID: GBR-5195 | Holly Goutcher | female52 | 1.13 pts | Great Britain
+89. ID: GBR-5345 | Lewis WINFIELD | male63 | 1.08 pts | Great Britain
+90. ID: GBR-5424 | Thomas Wright | male59 | 2.75 pts | Great Britain
+91. ID: GBR-5424 | Thomas Wright | male63 | 1.06 pts | Great Britain
+92. ID: GBR-5544 | Frankie Standring | female52 | 2.16 pts | Great Britain
+93. ID: GER-4294 | Amely STEINER | female52 | 0.76 pts | Germany
+94. ID: GER-4450 | Taha ÖZTÜRK | male55 | 1.80 pts | Germany
+95. ID: GER-4466 | Ayman Biberle | male59 | 3.02 pts | Germany
+96. ID: GER-4511 | Dennis SIEVERT | male59 | 2.27 pts | Germany
+97. ID: GER-4511 | Dennis SIEVERT | male63 | 0.76 pts | Germany
+98. ID: GER-4570 | Maik Schulz | male63 | 1.13 pts | Germany
+99. ID: GER-4620 | Martin Maier | male55 | 3.02 pts | Germany
+100. ID: GER-4649 | Tajana AVRAMOVIC | female55 | 1.08 pts | Germany
+101. ID: GER-4679 | Annegret HÖLZEL | female55 | 0.76 pts | Germany
+102. ID: GER-4681 | Melissa KAYALI | female59 | 1.51 pts | Germany
+103. ID: GER-4812 | Giuliana Vigneri | female49 | 1.13 pts | Germany
+104. ID: GER-4855 | Liam BEDNAREK | male48 | 1.08 pts | Germany
+105. ID: GER-4907 | Julian Sickinger | male45 | 1.62 pts | Germany
+106. ID: GER-5173 | Davyd Zhuravlov | male55 | 1.51 pts | Germany
+107. ID: GER-5192 | Sang Do | male59 | 1.51 pts | Germany
+108. ID: GER-5433 | Eric VOGEL | male59 | 2.16 pts | Germany
+109. ID: GRE-10392 | PANAGIOTIS KARRAS | male55 | 1.62 pts | Greece
+110. ID: GRE-10725 | FAIDRA NTE REKE MOURKOUSI | female59 | 1.13 pts | Greece
+111. ID: GRE-10756 | MARIA BALANOU | female59 | 1.51 pts | Greece
+112. ID: GRE-10963 | Nikolaos STATHOPOULOS | male55 | 1.89 pts | Greece
+113. ID: GRE-10963 | Nikolaos STATHOPOULOS | male59 | 0.53 pts | Greece
+114. ID: GRE-11712 | Zoe-Odile Papadimitriou | female55 | 2.16 pts | Greece
+115. ID: GRE-11884 | EVANGELOS KOUKOUTIS | male51 | 1.62 pts | Greece
+116. ID: GRE-12266 | evangelos savramis | male48 | 1.62 pts | Germany
+117. ID: GRE-12424 | Andreas Ntafogiannis | male59 | 2.27 pts | Greece
+118. ID: GRE-8878 | ALEXANDRA SIALVARLI | female49 | 1.51 pts | Greece
+119. ID: GRE-9023 | GEORGIOS LAMPROU | male63 | 0.76 pts | Greece
+120. ID: GRE-9068 | IOANNIS POLYKANDRITIS | male59 | 1.13 pts | Greece
+121. ID: GRE-9227 | NIKOLAOS PANOPOULOS | male59 | 2.12 pts | Greece
+122. ID: GRE-9256 | Nikolaos VOUTSELAS | male59 | 3.13 pts | Greece
+123. ID: GRE-9331 | ILIAS GKATZOGIAS | male55 | 1.51 pts | Greece
+124. ID: GRE-9528 | georgios manos | male59 | 2.16 pts | Greece
+125. ID: GRE-9657 | Georgios Ventouris | male51 | 3.18 pts | Greece
+126. ID: GRE-9902 | makarios skopelitis | male59 | 1.51 pts | Greece
+127. ID: GRE-9922 | AGIS SATLANIS | male55 | 3.18 pts | Greece
+128. ID: GRE-9951 | LIAPI MELINA NIKOLETA | female59 | 1.08 pts | Greece
+129. ID: GRE-9965 | ANGELOS KARAGEORGOS | male55 | 3.18 pts | Greece
+130. ID: IRI-24425 | Mohammad Saleh Mozaffari | male55 | 2.12 pts | Islamic Republic Of Iran
+131. ID: ITA-4364 | Andrea Neglia | male55 | 2.27 pts | Italy
+132. ID: ITA-4368 | Francesco Antonio SANTORO | male48 | 1.51 pts | Italy
+133. ID: ITA-4381 | Mattia PALLOTTA | male55 | 0.76 pts | Italy
+134. ID: ITA-4387 | Greta D'Amico | female55 | 1.62 pts | Italy
+135. ID: ITA-4393 | Federico BASILE | male55 | 1.08 pts | Italy
+136. ID: ITA-4446 | Lorenzo Falvo | male59 | 1.13 pts | Italy
+137. ID: ITA-4535 | Rosario Cintura | male63 | 2.12 pts | Italy
+138. ID: ITA-4922 | Azzurra Venelante | female59 | 1.13 pts | Italy
+139. ID: ITA-4956 | Orgesi Nikolli | male63 | 1.51 pts | Italy
+140. ID: ITA-5031 | Elia Pistilli | male63 | 2.16 pts | Italy
+141. ID: ITA-5297 | Giovanni Paolo Scalisi | male63 | 2.12 pts | Italy
+142. ID: JOR-4324 | Mohammed AYMAN | male55 | 1.06 pts | Jordan
+143. ID: JPN-2419 | Sakura OSHINDEN | female49 | 1.08 pts | Japan
+144. ID: JPN-2442 | Naruki OSHINO | male55 | 1.59 pts | Japan
+145. ID: JPN-2456 | Lila Ardian MURATA | female55 | 1.59 pts | Japan
+146. ID: KAZ-3707 | Dostan NAZHIMKHANOV | male51 | 2.16 pts | Kazakhstan
+147. ID: KAZ-3707 | Dostan NAZHIMKHANOV | male55 | 3.02 pts | Kazakhstan
+148. ID: KAZ-3718 | Adema BAIZAKOVA | female49 | 1.06 pts | Kazakhstan
+149. ID: KAZ-3793 | ARTUR TSOY | male55 | 1.59 pts | Kazakhstan
+150. ID: KAZ-3833 | Islam SERIKOV | male55 | 1.06 pts | Kazakhstan
+151. ID: KAZ-3835 | Akkhanym AIBEKKYZY | female52 | 1.06 pts | Kazakhstan
+152. ID: KAZ-3906 | Sabina KASYMOVA | female46 | 1.06 pts | Kazakhstan
+153. ID: KAZ-3906 | Sabina KASYMOVA | female49 | 1.08 pts | Kazakhstan
+154. ID: KAZ-3955 | Daryn ZAINESH | male59 | 1.06 pts | Kazakhstan
+155. ID: KAZ-4008 | Bakytnur KORGAN | female49 | 1.08 pts | Kazakhstan
+156. ID: KAZ-4025 | Abylaikhan Merganbay | male59 | 1.59 pts | Kazakhstan
+157. ID: KAZ-4129 | ZEINEDEN TABISSOV | male48 | 2.12 pts | Kazakhstan
+158. ID: KAZ-6950 | Yelaman Azat | male51 | 1.51 pts | Kazakhstan
+159. ID: KOR-11066 | HEE-CHEOL SHIN | male63 | 1.80 pts | Republic of Korea
+160. ID: KSA-2469 | Tarek Mostafa T Zawawi | male59 | 1.51 pts | Saudi Arabia
+161. ID: KUW-1662 | Othman ALENEZI | male55 | 3.02 pts | Kuwait
+162. ID: LBN-2894 | Charbel Mrad | male55 | 2.27 pts | Lebanon
+163. ID: LTU-1620 | Kajus Jakelaitis | male59 | 2.16 pts | Lithuania
+164. ID: MDA-2197 | Daria CARAUȘ | female49 | 1.08 pts | Republic Of Moldova
+165. ID: MKD-1823 | Sara RAMADANOVSKA JOVANOVSKA | female52 | 1.80 pts | North Macedonia
+166. ID: MKD-1860 | Angel Jovanovski | male59 | 1.51 pts | North Macedonia
+167. ID: MOR-3327 | SKIRI MOHAMMED TAHA | male59 | 3.78 pts | Morocco
+168. ID: MOR-3787 | MOHAMED HATIM GHANNAMI | male45 | 2.70 pts | Morocco
+169. ID: MOR-3909 | MOHAMED YASSER BENCHARIF | male55 | 2.27 pts | Morocco
+170. ID: MOR-3923 | MOHAMMED OUINATE | male55 | 2.70 pts | Morocco
+171. ID: MOR-3956 | YOUSSEF OUHNINI | male59 | 2.16 pts | Morocco
+172. ID: OMA-1679 | Mohamed AL BULUSHI | male51 | 3.00 pts | Oman
+173. ID: OMA-2059 | OZAIR MUSTAFA AL- BALUSHI | male51 | 2.70 pts | Oman
+174. ID: PAK-6057 | Muhammad Hadi EJAZ | male55 | 1.08 pts | Pakistan
+175. ID: PLE-2369 | NAJI M.N NAASAN | male63 | 1.06 pts | Palestine
+176. ID: POL-2399 | Bartosz MAMAJ-BABIJCZUK | male68 | 1.08 pts | Poland
+177. ID: POL-2468 | Marek Satkiewicz | male51 | 2.16 pts | Poland
+178. ID: POL-2581 | Sylwia Molenda | female55 | 2.12 pts | Poland
+179. ID: POL-2662 | Mateusz Lukasiewicz | male63 | 2.16 pts | Poland
+180. ID: ROU-1940 | Luca Alexander Cirstea | male51 | 2.70 pts | Romania
+181. ID: ROU-2119 | Andrei Sebastian COJOCARU | male51 | 1.08 pts | Romania
+182. ID: ROU-2119 | Andrei Sebastian Cojocaru | male55 | 1.62 pts | Romania
+183. ID: SLO-1844 | MEDEJA MOHORIČ | female52 | 1.08 pts | Slovenia
+184. ID: SRB-3300 | Anastasija SOKOLOV | female55 | 1.80 pts | Serbia
+185. ID: SRB-3447 | Jovana SKOCAJIC | female52 | 1.13 pts | Serbia
+186. ID: SUI-1885 | Marco Grimaldi | male59 | 1.51 pts | Switzerland
+187. ID: SWE-2779 | Alva VENNBERG | female49 | 0.76 pts | Sweden
+188. ID: SWE-3325 | Lucy Hell | female55 | 1.13 pts | Sweden
+189. ID: SWE-5205 | Lova Eriksson | female55 | 2.16 pts | Sweden
+190. ID: TPE-3931 | Hong-You Wei | male59 | 2.70 pts | Chinese Taipei
+191. ID: TUR-11569 | PINAR YILMAZ | female49 | 1.51 pts | Türkiye
+192. ID: TUR-19144 | YIGITHAN AKPINAR | male55 | 2.27 pts | Türkiye
+193. ID: TUR-20152 | MUHAMMED ENES ISIK | male51 | 3.02 pts | Türkiye
+194. ID: TUR-20408 | UGUR ARDA DERDIYOK | male55 | 2.27 pts | Türkiye
+195. ID: TUR-20537 | FIRAT BARIS CALIT | male63 | 1.51 pts | Türkiye
+196. ID: TUR-20598 | BILAL IPEK | male59 | 3.02 pts | Türkiye
+197. ID: TUR-21482 | RAHIYE BUSE AKIN | female52 | 2.27 pts | Türkiye
+198. ID: TUR-21848 | HILAL MERT | female49 | 1.59 pts | Türkiye
+199. ID: TUR-21884 | DILEK BAL | female52 | 2.12 pts | Türkiye
+200. ID: TUR-21898 | SULTAN SENA DOGANCAY | female49 | 1.59 pts | Türkiye
+201. ID: TUR-21946 | SEDEF KAYA | female49 | 1.59 pts | Türkiye
+202. ID: TUR-22038 | IBRAHIM HALIL SAGLAM | male51 | 2.12 pts | Türkiye
+203. ID: TUR-22459 | SIRA BERRE NALCI | female49 | 1.59 pts | Türkiye
+204. ID: TUR-22549 | BULUT SUBASI | female52 | 2.16 pts | Türkiye
+205. ID: TUR-22631 | ZUBEYDE ILGIN DAG | female52 | 2.12 pts | Türkiye
+206. ID: TUR-22871 | HALIS MERT YILDIZ | male51 | 2.27 pts | Türkiye
+207. ID: TUR-22888 | BERTUG KEREM ABAY | male51 | 2.27 pts | Türkiye
+208. ID: TUR-22888 | BERTUG KEREM ABAY | male55 | 2.12 pts | Türkiye
+209. ID: TUR-22930 | MEHMET EMIN DINCER | male55 | 1.51 pts | Türkiye
+210. ID: TUR-22930 | MEHMET EMIN DINCER | male59 | 2.12 pts | Türkiye
+211. ID: TUR-22941 | EMIN KAAN DEMIRHAN | male51 | 2.27 pts | Türkiye
+212. ID: TUR-23005 | NEZIHA GUL GUZELYURT | female49 | 2.12 pts | Türkiye
+213. ID: TUR-23066 | YIGIT MURAT ALYURT | male48 | 1.51 pts | Türkiye
+214. ID: TUR-23145 | FATMA ZEHRA OGUT | female52 | 1.59 pts | Türkiye
+215. ID: TUR-23255 | ELANUR CETIN | female52 | 2.12 pts | Türkiye
+216. ID: TUR-23263 | ELIF TASKIN | female49 | 1.59 pts | Türkiye
+217. ID: TUR-23461 | OMER KAGAN AYANCIK | male63 | 1.59 pts | Türkiye
+218. ID: TUR-23548 | NAZ KIRAZ | female52 | 1.51 pts | Türkiye
+219. ID: TUR-23618 | MIRAY HATUN NOZOGLU | female52 | 1.59 pts | Türkiye
+220. ID: TUR-23763 | AHMET ARDUC | male55 | 1.59 pts | Türkiye
+221. ID: TUR-23810 | YAHYA KEMAL KOC | male45 | 1.51 pts | Türkiye
+222. ID: TUR-23810 | YAHYA KEMAL KOC | male48 | 2.27 pts | Türkiye
+223. ID: TUR-25252 | SAMET EFE CELIK | male48 | 2.16 pts | Türkiye
+224. ID: TUR-25357 | NAZLI HILAL ESIYOK | female49 | 1.51 pts | Türkiye
+225. ID: TUR-25384 | IHSAN BINICI | male63 | 1.59 pts | Türkiye
+226. ID: TUR-25538 | Ramazan GULVEREN | male55 | 2.27 pts | Türkiye
+227. ID: TUR-25650 | YASIN TUNA BOZKURT | male59 | 2.27 pts | Türkiye
+228. ID: TUR-25816 | MEHMET EFE BILMIS | male59 | 3.02 pts | Türkiye
+229. ID: TUR-25917 | Taha Furkan AGCAN | male55 | 2.12 pts | Türkiye
+230. ID: TUR-25917 | Taha Furkan AGCAN | male59 | 2.12 pts | Türkiye
+231. ID: TUR-26089 | SUMEYYE ALKAN | female49 | 1.59 pts | Türkiye
+232. ID: TUR-26701 | ZEHRA AKAR | female55 | 2.12 pts | Türkiye
+233. ID: TUR-26979 | MELEK SAKALLI | female52 | 2.12 pts | Türkiye
+234. ID: UKR-3771 | Solomii SAVCHUK | female46 | 6.35 pts | Ukraine
+235. ID: UKR-4123 | Valeriia Romanenko | female52 | 1.13 pts | Ukraine
+236. ID: UKR-4123 | Valeriia Romanenko | female55 | 1.13 pts | Ukraine
+237. ID: UKR-4168 | Vadym Kasimov | male55 | 2.27 pts | Ukraine
+238. ID: UKR-4174 | Ihor Makarenko | male59 | 2.16 pts | Ukraine
+239. ID: UKR-4174 | Ihor Makarenko | male63 | 1.51 pts | Ukraine
+240. ID: UKR-4308 | Anastasiia KUSHNIRENKO | female55 | 1.51 pts | Ukraine
+241. ID: USA-11261 | Charles ALEJO-DICKEY | male51 | 3.00 pts | United States of America
+242. ID: USA-12358 | Jordan Quesada | female49 | 1.13 pts | United States of America
+243. ID: USA-12721 | Nathan BAYOUH | male59 | 1.08 pts | United States of America
+244. ID: USA-13137 | Jeth Angelo Antero | male59 | 0.80 pts | United States of America
+245. ID: USA-13765 | Paraic KELLY | male73 | 32.05 pts | United States of America
