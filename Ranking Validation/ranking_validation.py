@@ -254,13 +254,11 @@ for key in sorted(all_keys):
         })
 
 # ============================================
-# OUTPUT RESULTS
+# HELPER FUNCTION TO FORMAT OUTPUT
 # ============================================
 
-# Create detailed output
-output_filename = f"{DIVISION}_validation_results.txt"
-
-def format_output():
+def format_results(point_discrepancies, weight_mismatches, only_in_file1, only_in_file2, file1_data, file2_data):
+    """Format results for both terminal and file output"""
     output_lines = []
     
     output_lines.append("="*80)
@@ -290,7 +288,8 @@ def format_output():
                 output_lines.append(f"   Country:         {disc.get('Country', 'N/A')}")
                 output_lines.append(f"   File1 Points:    {disc['File1_Points']:.2f}")
                 output_lines.append(f"   File2 Points:    {disc['File2_Points']:.2f}")
-                output_lines.append(f"   Difference:      {disc['Difference']:.2f}\n")
+                output_lines.append(f"   Difference:      {disc['Difference']:+.2f}")
+                output_lines.append(f"   {'-' * 76}\n")
         
         # 2. Weight Category Mismatches
         if weight_mismatches:
@@ -298,15 +297,19 @@ def format_output():
             output_lines.append(f"❌ WEIGHT CATEGORY MISMATCHES ({len(weight_mismatches)}):")
             output_lines.append("="*80 + "\n")
             for idx, mismatch in enumerate(weight_mismatches, 1):
-                output_lines.append(f"{idx}. ID: {mismatch['ID']} | {mismatch['Name']} | {mismatch['Country']}")
-                output_lines.append(f"   File1: {mismatch['File1_Weight']}")
-                output_lines.append(f"   File2: {mismatch['File2_Weight']}\n")
+                output_lines.append(f"{idx}. ATHLETE DETAILS:")
+                output_lines.append(f"   ID:                    {mismatch['ID']}")
+                output_lines.append(f"   Name:                  {mismatch['Name']}")
+                output_lines.append(f"   Country:               {mismatch.get('Country', 'N/A')}")
+                output_lines.append(f"   File1 Weight Category: {mismatch['File1_Weight']}")
+                output_lines.append(f"   File2 Weight Category: {mismatch['File2_Weight']}")
+                output_lines.append(f"   {'-' * 76}\n")
         
         # 3. Only in File 1
         if only_in_file1:
             output_lines.append(f"\n{'='*80}")
             output_lines.append(f"⚠️  ONLY IN FILE 1 ({len(only_in_file1)}):")
-            output_lines.append("="*80 + "\n")
+            output_lines.append("="*80)
             for idx, athlete in enumerate(only_in_file1, 1):
                 output_lines.append(f"{idx}. ID: {athlete['ID']} | {athlete['Name']} | {athlete['Weight']} | {athlete['Points']:.2f} pts | {athlete['Country']}")
         
@@ -314,55 +317,88 @@ def format_output():
         if only_in_file2:
             output_lines.append(f"\n{'='*80}")
             output_lines.append(f"⚠️  ONLY IN FILE 2 ({len(only_in_file2)}):")
-            output_lines.append("="*80 + "\n")
+            output_lines.append("="*80)
             for idx, athlete in enumerate(only_in_file2, 1):
                 output_lines.append(f"{idx}. ID: {athlete['ID']} | {athlete['Name']} | {athlete['Weight']} | {athlete['Points']:.2f} pts | {athlete['Country']}")
     
-    return "\n".join(output_lines)
+    output_lines.append("\n" + "="*80)
+    output_lines.append("SUMMARY")
+    output_lines.append("="*80)
+    # Count unique athletes in each file
+    unique_file1_athletes = len(set(key[0] for key in file1_data.keys()))
+    unique_file2_athletes = len(set(key[0] for key in file2_data.keys()))
+    output_lines.append(f"Total athlete entries in File 1: {len(file1_data)}")
+    output_lines.append(f"Total athlete entries in File 2: {len(file2_data)}")
+    output_lines.append(f"Unique athletes in File 1: {unique_file1_athletes}")
+    output_lines.append(f"Unique athletes in File 2: {unique_file2_athletes}")
+    output_lines.append(f"Point discrepancies:      {len(point_discrepancies)}")
+    output_lines.append(f"Weight mismatches:        {len(weight_mismatches)}")
+    output_lines.append(f"Only in File 1:           {len(only_in_file1)}")
+    output_lines.append(f"Only in File 2:           {len(only_in_file2)}")
+    output_lines.append("="*80)
+    
+    return output_lines
 
-# Generate and save output
-output_text = format_output()
+# ============================================
+# OUTPUT RESULTS
+# ============================================
 
-with open(output_filename, 'w', encoding='utf-8') as f:
-    f.write(output_text)
+# Sort lists by points (descending)
+point_discrepancies.sort(key=lambda x: x['File2_Points'], reverse=True)
+only_in_file1.sort(key=lambda x: x['Points'], reverse=True)
+only_in_file2.sort(key=lambda x: x['Points'], reverse=True)
 
-print(f"✅ Detailed results saved to: {output_filename}\n")
-
-# Print summary to console
 total_issues = len(point_discrepancies) + len(weight_mismatches) + len(only_in_file1) + len(only_in_file2)
 
-if len(point_discrepancies) > 0:
-    print(f"❌ Found {len(point_discrepancies)} point discrepancies")
-    print(f"   (See {output_filename} for complete list)")
-
-if len(weight_mismatches) > 0:
-    print(f"❌ Found {len(weight_mismatches)} weight category mismatches")
-    print(f"   (See {output_filename} for complete list)")
-
-if len(only_in_file1) > 0:
-    print(f"⚠️  Found {len(only_in_file1)} athletes only in File 1")
-    if len(only_in_file1) <= 10:
-        for athlete in only_in_file1:
-            print(f"   - {athlete['ID']}: {athlete['Name']} ({athlete['Weight']})")
-    else:
-        for athlete in only_in_file1[:10]:
-            print(f"   - {athlete['ID']}: {athlete['Name']} ({athlete['Weight']})")
-        print(f"   ... and {len(only_in_file1) - 10} more")
-        print(f"   (See {output_filename} for complete list)")
-
-if len(only_in_file2) > 0:
-    print(f"⚠️  Found {len(only_in_file2)} athletes only in File 2")
-    if len(only_in_file2) <= 10:
-        for athlete in only_in_file2:
-            print(f"   - {athlete['ID']}: {athlete['Name']} ({athlete['Weight']})")
-    else:
-        for athlete in only_in_file2[:10]:
-            print(f"   - {athlete['ID']}: {athlete['Name']} ({athlete['Weight']})")
-        print(f"   ... and {len(only_in_file2) - 10} more")
-        print(f"   (See {output_filename} for complete list)")
-
 if total_issues == 0:
-    print("✅ PERFECT MATCH! All rankings are consistent.")
+    print("✅ PERFECT MATCH! No discrepancies found.")
+    print("   - All IDs match")
+    print("   - All weight categories match")
+    print("   - All points match within tolerance")
+else:
+    print(f"⚠️  TOTAL ISSUES FOUND: {total_issues}\n")
+    
+    # 1. Point Discrepancies
+    if point_discrepancies:
+        print(f"\n❌ POINT DISCREPANCIES ({len(point_discrepancies)}):")
+        print("-" * 80)
+        for idx, disc in enumerate(point_discrepancies, 1):
+            print(f"\n{idx}. ATHLETE DETAILS:")
+            print(f"   ID:              {disc['ID']}")
+            print(f"   Name:            {disc['Name']}")
+            print(f"   Weight Category: {disc['Weight']}")
+            print(f"   Country:         {disc.get('Country', 'N/A')}")
+            print(f"   File1 Points:    {disc['File1_Points']:.2f}")
+            print(f"   File2 Points:    {disc['File2_Points']:.2f}")
+            print(f"   Difference:      {disc['Difference']:+.2f}")
+            print(f"   {'-' * 76}")
+    
+    # 2. Weight Category Mismatches
+    if weight_mismatches:
+        print(f"\n❌ WEIGHT CATEGORY MISMATCHES ({len(weight_mismatches)}):")
+        print("-" * 80)
+        for idx, mismatch in enumerate(weight_mismatches, 1):
+            print(f"\n{idx}. ATHLETE DETAILS:")
+            print(f"   ID:                    {mismatch['ID']}")
+            print(f"   Name:                  {mismatch['Name']}")
+            print(f"   Country:               {mismatch.get('Country', 'N/A')}")
+            print(f"   File1 Weight Category: {mismatch['File1_Weight']}")
+            print(f"   File2 Weight Category: {mismatch['File2_Weight']}")
+            print(f"   {'-' * 76}")
+    
+    # 3. Only in File 1
+    if only_in_file1:
+        print(f"\n⚠️  ONLY IN FILE 1 ({len(only_in_file1)}):")
+        print("-" * 80)
+        for idx, athlete in enumerate(only_in_file1, 1):
+            print(f"{idx}. ID: {athlete['ID']} | {athlete['Name']} | {athlete['Weight']} | {athlete['Points']:.2f} pts | {athlete['Country']}")
+    
+    # 4. Only in File 2
+    if only_in_file2:
+        print(f"\n⚠️  ONLY IN FILE 2 ({len(only_in_file2)}):")
+        print("-" * 80)
+        for idx, athlete in enumerate(only_in_file2, 1):
+            print(f"{idx}. ID: {athlete['ID']} | {athlete['Name']} | {athlete['Weight']} | {athlete['Points']:.2f} pts | {athlete['Country']}")
 
 print("\n" + "="*80)
 print("SUMMARY")
